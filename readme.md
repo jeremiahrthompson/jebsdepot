@@ -21,13 +21,13 @@ Please refer to the [Installation Guide](./docs/INSTALL.md) for instructions on 
 Please refer to the [User Guide](./docs/USER.md) for instructions on how to use JebsDepot.
 
 ## Contributing
-We welcome contributions from the community. Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) for instructions on how to contribute to Jebs Depot.
+We welcome contributions from the community. Please refer to the [Contributing Guidelines](./docs/CONTRIBUTING.md) for instructions on how to contribute to Jebs Depot.
 
 ## License
-JebsDepot is licensed under the Apache License 2.0. See [LICENSE](./LICENSE) for more information.
+JebsDepot is licensed under the Apache License 2.0. See [LICENSE](./docs/LICENSE.md) for more information.
 
 ## Code of Conduct
-We expect all contributors and users of JebsDepot to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
+We expect all contributors and users of JebsDepot to abide by our [Code of Conduct](./docs/CODE_OF_CONDUCT.md).
 
 ## Contact
 If you have any questions, suggestions, and/or news ways to contribute, feel free to contact us:
